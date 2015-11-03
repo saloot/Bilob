@@ -7,68 +7,32 @@
 </p>
 
 <h2 dir = "rtl">
-درآمد سالیانه
+درآمدها و پرداختی‌های سالیانه
+</h2>
+<p dir ="rtl">
+نمودار زیر میزان مبالغ اهدایی و هزینه‌ها را در سه سال گذشته به تفکیک سال نشان می‌دهد.
+</p>
+
+<div style="margin-left:50px;">
+    <a href="https://plot.ly/~arashmidos/95/" target="_blank" title="Income/Expenses over the Years" style="display: block; text-align: center;"><img src="https://plot.ly/~arashmidos/95.png" alt="Income/Expenses over the Years" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="arashmidos:95"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+
+
+<h2 dir = "rtl">
+کل دریافتی‌ها و پرداختی‌ها از ابتدا تا کنون
 </h2>
 <p dir ="rtl">
 نمودار زیر میزان درآمدها و هزینه‌ها را در سه سال گذشته به تفکیک سال نشان می‌دهد.
 </p>
 
 <div>
-    <a href="https://plot.ly/~arashmidos/95/" target="_blank" title="Income/Expenses over the Years" style="display: block; text-align: center;"><img src="https://plot.ly/~arashmidos/95.png" alt="Income/Expenses over the Years" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="arashmidos:95"  src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~arashmidos/103/" target="_blank" title="Total Income/Expenses from the Beginning" style="display: block; text-align: center;"><img src="https://plot.ly/~arashmidos/103.png" alt="Total Income/Expenses from the Beginning" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="arashmidos:103"  src="https://plot.ly/embed.js" async></script>
 </div>
 
 
-Selected results from the paper
---------
-Our analysis shows that the increase in the amount of CO2 in the atmosphere is correlated with the increase in oceans' heat content. See the figure below.
-
-<img src="https://documents.epfl.ch/users/s/sa/salavati/public/IPythonClassPhotos/AtmosphericCO2.png" width=600>
-<br>
-
-Executing the Code
----------
-
-1. First, download the IPython notebook, either from this [GitHub link](https://github.com/saloot/IPythonClass/blob/master/Sample%20Paper/Paper%20Code/CO2Example.ipynb)
-or directly from [this link](http://some_links) (we recommend the GitHub method).
-2. Open a terminal/command line window and move to the directory the IPython Notebook is located. 
-3. In the command line, type
-
-    ```ipython notebook```
-4. Consequently, a browser window pops up. Navigate to the browser window and select the IPython Notebook. 
-5. You can then adjust parameters of the code and run different decoders.
-
-
-### Required Packages
-* A working distribution of [Python 2.7](https://www.python.org/downloads/).
-* The code relies heavily on [Numpy](http://www.numpy.org/), and [matplotlib](http://matplotlib.org).
-* It also depends on several other standard Python packages, such as [os](https://docs.python.org/3/library/os.html), [sys](https://docs.python.org/3/library/sys.html), [getopt](https://docs.python.org/3/library/getopt.html), [pdb](https://docs.python.org/3/library/pdb.html) and [random](https://docs.python.org/3/library/random.html).
-
-### Tested on...
-The code has been tested on Mac OS X 10.7, 10.8, 10.9, and on Ubuntu linux.
-
-
-
-License
--------
-
-2013-2015 (c) Author 1 and Author 2.
-
-This work is licensed under the Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy
-of this license, visit [this link](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-The code is free to reuse for non-commercial and academic purposes. However,
-please acknowledge its use with the following citation.
-
-    @article{EPFL-JOUR-204991,
-       author      = {Author 1 and Author 2},
-       title       = {Paper Title},
-       journal     = {Some journal}
-       volume      = 1,
-       year        = 2016,
-       ee          = {http://link_to_paper.ch}
-    }
 
 
 Contact
@@ -82,6 +46,4 @@ Author 1
 Author 2
 ([email](mailto:first2[dot]last2[at]epfl[dot]ch))
 ([homepage](http://google.com))
-
-Please do not hesitate to contact us. We would be happy to help you run the code.
 
