@@ -14,10 +14,7 @@
 </p>
 
 
-<div>
-    <a href="https://plot.ly/~arashmidos/95/" target="_blank" title="Income/Expenses over the Years" style="display: block; text-align: center;"><img src="https://plot.ly/~arashmidos/95.png" alt="Income/Expenses over the Years" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="arashmidos:95"  src="https://plot.ly/embed.js" async></script>
-</div>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~arashmidos/95.embed"></iframe>
 
 
 Selected results from the paper
