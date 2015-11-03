@@ -1,16 +1,24 @@
 <h1 dir = "rtl">
 گزارش مالی گروه خیریه بیلوب
 </h1>
-===================
 
-This is the code for the paper ["Increase in the Amount of CO2 and Ocean Heat Content"](paper_link).
+<p dir ="rtl">
+در این صفحه می‌توانید خلاصه‌ای از فعالیت‌های گروه خیریه بیلوب و گزارش مالی سال‌های اخیر را بیابید.
+</p>
+
+<h2 dir = "rtl">
+درآمد سالیانه
+</h2>
+<p dir ="rtl">
+نمودار زیر میزان درآمدها و هزینه‌ها را در سه سال گذشته به تفکیک سال نشان می‌دهد.
+</p>
 
 
-Abstract
---------
+<div>
+    <a href="https://plot.ly/~arashmidos/95/" target="_blank" title="Income/Expenses over the Years" style="display: block; text-align: center;"><img src="https://plot.ly/~arashmidos/95.png" alt="Income/Expenses over the Years" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="arashmidos:95"  src="https://plot.ly/embed.js" async></script>
+</div>
 
-After a week spent meticulously agreeing the exact wording, the Intergovernmental Panel on Climate Change (IPCC)
-has just released a summary of the first part of its major report reviewing the science of climate change.
 
 Selected results from the paper
 --------
