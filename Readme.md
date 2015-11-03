@@ -82,6 +82,15 @@
 </div>
 
 
+<p dir ="rtl">
+همچنین نمودار زیر تعداد کمک‌های دریافتی در قالب حق عضویت را د ماه‌های مختلف سال نشان می‌دهد.
+</p>
+<div>
+    <a href="https://plot.ly/~arashmidos/154/" target="_blank" title="تعداد کمک‌های دریافتی ماهیانه در قالب حق عضویت" style="display: block; text-align: center;"><img src="https://plot.ly/~arashmidos/154.png" alt="تعداد کمک‌های دریافتی ماهیانه در قالب حق عضویت" style="max-width: 100%;width: 1221px;"  width="1221" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="arashmidos:154"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+
 
 <h2 dir = "rtl" name="YearlyMonthlyIncme">
 مبالغ اهدایی دریافتی پرداختی به تفکیک ماه در سه سال گذشته
