@@ -45,10 +45,11 @@
 نمودار زیر میزان مبالغ اهدایی و هزینه‌ها را در سه سال گذشته به تفکیک سال نشان می‌دهد.
 </p>
 
-<div style="margin-left:100px;">
+<div>
     <a href="https://plot.ly/~arashmidos/95/" target="_blank" title="مبالغ دریافتی/اهدایی در طی سال‌های اخیر" style="display: block; text-align: center;"><img src="https://plot.ly/~arashmidos/95.png" alt="مبالغ دریافتی/اهدایی در طی سال‌های اخیر" style="max-width: 100%;width: 1166px;"  width="1166" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="arashmidos:95"  src="https://plot.ly/embed.js" async></script>
 </div>
+
 
 
 <h2 dir = "rtl" name="TotalIncome">
@@ -62,6 +63,7 @@
     <a href="https://plot.ly/~arashmidos/103/" target="_blank" title="مبالغ اهدایی دریافتی/پرداختی از ابتدا تا کنون" style="display: block; text-align: center;"><img src="https://plot.ly/~arashmidos/103.png" alt="مبالغ اهدایی دریافتی/پرداختی از ابتدا تا کنون" style="max-width: 100%;width: 1166px;"  width="1166" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="arashmidos:103"  src="https://plot.ly/embed.js" async></script>
 </div>
+
 
 
 <h2 dir = "rtl" name="MembershipIncome">
