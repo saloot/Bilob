@@ -13,9 +13,9 @@
 نمودار زیر میزان درآمدها و هزینه‌ها را در سه سال گذشته به تفکیک سال نشان می‌دهد.
 </p>
 
-
+<div>
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~arashmidos/95.embed"></iframe>
-
+</div>
 
 Selected results from the paper
 --------
