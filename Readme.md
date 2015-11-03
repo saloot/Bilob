@@ -44,17 +44,16 @@
 </p>
 
 <div>
-    <a href="https://plot.ly/~arashmidos/103/" target="_blank" title="Total Income/Expenses from the Beginning" style="display: block; text-align: center;"><img src="https://plot.ly/~arashmidos/103.png" alt="Total Income/Expenses from the Beginning" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="arashmidos:103"  src="https://plot.ly/embed.js" async></script>
+    <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~arashmidos/95.embed"></iframe>
 </div>
 
 
-
+-------
 
 <h1 dir = "rtl">
 تماس با ما
 </h1>
--------
+
 <p dir ="rtl">
 در صورت هر گونه سوال یا پیشنهاد می‌توانید با ما از یکی از راه‌های زیر تماس بگیرید.
 </p>
