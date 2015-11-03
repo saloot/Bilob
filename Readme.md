@@ -4,13 +4,22 @@
 
 <p dir ="rtl">
 در این صفحه می‌توانید خلاصه‌ای از فعالیت‌های گروه خیریه بیلوب و گزارش مالی سال‌های اخیر را بیابید.
+فهرست گزارش‌های مختلف مالی در زیر نمایش داده شده است.
 </p>
 
 <ul dir ="rtl">
-
+<li>
 <a href="#YearlyIncome" title="Link: #YearlyIncome">
 درآمدها و پرداختی‌های سالیانه
 </a>
+
+</li>
+<li>
+<a href="#TotalIncome" title="Link: #TotalIncome">
+کل دریافتی‌ها و پرداختی‌ها از ابتدا تا کنون
+</a>
+</li>
+
 </ul>
 
 <h2 dir = "rtl" name="YearlyIncome">
@@ -27,7 +36,7 @@
 
 
 
-<h2 dir = "rtl">
+<h2 dir = "rtl" name="TotalIncome">
 کل دریافتی‌ها و پرداختی‌ها از ابتدا تا کنون
 </h2>
 <p dir ="rtl">
@@ -42,15 +51,24 @@
 
 
 
-Contact
+<h1 dir = "rtl">
+تماس با ما
+</h1>
 -------
-For any other purposes, please contact the authors.
+<p dir ="rtl">
+در صورت هر گونه سوال یا پیشنهاد می‌توانید با ما از یکی از راه‌های زیر تماس بگیرید.
+</p>
 
-Author 1
-([email](mailto:first[dot]last[at]epfl[dot]ch))
-([homepage](http://google.com))
+<ul dir ="rtl">
+<li>
+<a href="https://www.facebook.com/groups/bilob.charity/">
+صفحه فیس‌بوک خیریه
+</a>
+</li>
 
-Author 2
-([email](mailto:first2[dot]last2[at]epfl[dot]ch))
-([homepage](http://google.com))
-
+<li>
+<a href="mailto:saloot@gmail.com">
+ارسال ایمیل
+</a>
+</li>
+</ul>
